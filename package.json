@@ -1,0 +1,33 @@
+{
+  "name": "assert-function",
+  "main": "index.js",
+  "version": "0.0.0",
+  "description": "Assert that a value is a function",
+  "license": "MIT",
+  "repository": "bendrucker/assert-function",
+  "author": {
+    "name": "Ben Drucker",
+    "email": "bvdrucker@gmail.com",
+    "url": "bendrucker.me"
+  },
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "scripts": {
+    "test": "standard && tape test.js"
+  },
+  "keywords": [
+    "assert",
+    "function",
+    "error"
+  ],
+  "dependencies": {},
+  "devDependencies": {
+    "tape": "^4.0.0",
+    "standard": "^4.0.0"
+  },
+  "files": [
+    "index.js",
+    "readme.md"
+  ]
+}
