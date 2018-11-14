@@ -1,4 +1,4 @@
-# assert-function [![Build Status](https://travis-ci.org/bendrucker/assert-function.svg?branch=master)](https://travis-ci.org/bendrucker/assert-function)
+# assert-function [![Build Status](https://travis-ci.org/bendrucker/assert-function.svg?branch=master)](https://travis-ci.org/bendrucker/assert-function) [![Greenkeeper badge](https://badges.greenkeeper.io/bendrucker/assert-function.svg)](https://greenkeeper.io/)
 
 > Assert that a value is a function
 
